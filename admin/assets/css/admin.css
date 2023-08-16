@@ -1,0 +1,38 @@
+/* style them nhan vien */
+form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: 700;
+    font-weight: bold;
+    color:black;
+    font-family: 'Roboto', sans-serif;
+}
+input {
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+  
+h2{
+    color: #2B3467;
+    font-weight: 900;
+    padding-top: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.frame{
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding-bottom: 20px;
+}
+
